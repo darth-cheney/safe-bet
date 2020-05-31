@@ -1,0 +1,19 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 5/20/2020 12:29",
+	"instvars" : [
+		"partName",
+		"size",
+		"start",
+		"bitmask",
+		"partValue",
+		"writeable" ],
+	"name" : "RVInstructionPart",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

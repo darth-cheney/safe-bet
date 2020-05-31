@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyToImmediate:" : "EG 5/20/2020 17:51",
+		"applyToImmediate:startingAt:" : "EG 5/20/2020 17:50",
+		"immediateEndIndex" : "EG 5/20/2020 17:14",
+		"immediateStartIndex" : "EG 5/20/2020 17:14",
+		"immediateStartIndex:" : "EG 5/20/2020 17:13",
+		"initialize" : "EG 5/20/2020 17:11",
+		"isImmediatePart" : "EG 5/20/2020 17:27" } }

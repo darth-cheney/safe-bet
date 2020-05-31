@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fromIntegerWithoutOpcode:" : "EG 5/27/2020 11:03",
+		"funct3" : "EG 5/27/2020 10:58" },
+	"instance" : {
+		"funct3" : "EG 5/27/2020 10:58",
+		"imm1" : "EG 5/27/2020 10:45",
+		"imm2" : "EG 5/27/2020 10:45",
+		"initialize" : "EG 5/27/2020 10:51",
+		"initializeParts" : "EG 5/27/2020 10:58",
+		"instructionType" : "EG 5/27/2020 10:44",
+		"rs1" : "EG 5/27/2020 10:45",
+		"rs2" : "EG 5/27/2020 10:45" } }

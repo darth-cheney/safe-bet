@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"OpcodeMapping" ],
+	"commentStamp" : "EG 5/19/2020 19:00",
+	"instvars" : [
+		"partsCollection" ],
+	"name" : "RVInstruction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

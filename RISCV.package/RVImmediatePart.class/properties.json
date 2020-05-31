@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"immediateStart" ],
+	"name" : "RVImmediatePart",
+	"pools" : [
+		 ],
+	"super" : "RVInstructionPart",
+	"type" : "normal" }
