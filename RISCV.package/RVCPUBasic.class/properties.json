@@ -1,0 +1,15 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 6/15/2020 16:13",
+	"instvars" : [
+		"registers",
+		"memory" ],
+	"name" : "RVCPUBasic",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

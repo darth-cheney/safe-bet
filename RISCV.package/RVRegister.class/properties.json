@@ -1,0 +1,15 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 6/15/2020 15:59",
+	"instvars" : [
+		"registerName",
+		"value" ],
+	"name" : "RVRegister",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

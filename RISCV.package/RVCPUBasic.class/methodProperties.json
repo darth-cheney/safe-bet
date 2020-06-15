@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"example1024" : "EG 6/15/2020 16:51",
+		"xlen" : "EG 6/15/2020 16:14" },
+	"instance" : {
+		"bootstrap:" : "EG 6/15/2020 17:03",
+		"doNextInstruction" : "EG 6/15/2020 18:14",
+		"incrementPCBy:" : "EG 6/15/2020 18:10",
+		"initialize" : "EG 6/15/2020 16:14",
+		"initializeRegisters" : "EG 6/15/2020 16:53",
+		"memory" : "EG 6/15/2020 17:02",
+		"memory:" : "EG 6/15/2020 16:13",
+		"pcValue" : "EG 6/15/2020 18:09",
+		"registerNamed:" : "EG 6/15/2020 16:54",
+		"registerNumbered:" : "EG 6/15/2020 17:45",
+		"run" : "EG 6/15/2020 18:14",
+		"tickSpeed" : "EG 6/15/2020 17:59" } }
