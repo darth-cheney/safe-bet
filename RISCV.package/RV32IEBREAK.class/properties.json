@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RV32IEBREAK",
+	"pools" : [
+		 ],
+	"super" : "RV32ISYSTEM",
+	"type" : "normal" }

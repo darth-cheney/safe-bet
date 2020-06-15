@@ -8,4 +8,9 @@ initialize
 		2r1100111 -> RV32II. "The Jump (JALR) specialized I-type"
 		2r0100011 -> RV32IS.
 		2r1100011 -> RV32IB.
+		2r1101111 -> RV32IJJAL.
+		2r0010111 -> RV32IUAUIPC.
+		2r0110111 -> RV32IULUI.
+		2r0001111 -> RV32IFENCE.
+		2r1110011 -> RV32IECALL.
 	} asDictionary

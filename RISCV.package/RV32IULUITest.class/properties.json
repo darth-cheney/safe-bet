@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Instructions-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RV32IULUITest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
