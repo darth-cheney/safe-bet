@@ -1,4 +1,4 @@
 as yet unclassified
 initialize
-	value := 0.
-	
+	bits := Array new: self width.
+	self value: 0.

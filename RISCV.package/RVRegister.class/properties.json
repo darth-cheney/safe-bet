@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "EG 6/15/2020 15:59",
+	"commentStamp" : "EG 6/16/2020 14:35",
 	"instvars" : [
 		"registerName",
-		"value" ],
+		"bits" ],
 	"name" : "RVRegister",
 	"pools" : [
 		 ],

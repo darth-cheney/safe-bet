@@ -1,9 +1,15 @@
 {
 	"class" : {
-		"xlen" : "EG 6/15/2020 15:59" },
+		"xlen" : "EG 6/16/2020 14:54" },
 	"instance" : {
-		"initialize" : "EG 6/15/2020 16:01",
+		"asSignedInteger" : "EG 6/16/2020 15:26",
+		"asUnsignedInteger" : "EG 6/16/2020 15:29",
+		"initialize" : "EG 6/16/2020 14:38",
+		"negateBit:" : "EG 6/16/2020 15:23",
+		"onesComplementOf:" : "EG 6/16/2020 15:04",
 		"registerName" : "EG 6/15/2020 16:02",
 		"registerName:" : "EG 6/15/2020 16:01",
-		"value" : "EG 6/15/2020 16:02",
-		"value:" : "EG 6/15/2020 16:10" } }
+		"twosComplementOf:" : "EG 6/16/2020 15:15",
+		"value" : "EG 6/16/2020 15:41",
+		"value:" : "EG 6/16/2020 15:30",
+		"width" : "EG 6/16/2020 14:30" } }
