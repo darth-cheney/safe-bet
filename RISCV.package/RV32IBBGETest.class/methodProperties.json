@@ -3,4 +3,7 @@
 		 },
 	"instance" : {
 		"testAsInteger" : "EG 6/13/2020 13:32",
+		"testExecuteOn" : "EG 6/16/2020 09:01",
+		"testExecuteOnEQ" : "EG 6/16/2020 09:03",
+		"testExecuteOnLT" : "EG 6/16/2020 09:37",
 		"testFromInteger" : "EG 6/13/2020 13:38" } }

@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "EG 6/16/2020 07:23",
+	"commentStamp" : "EG 6/16/2020 08:40",
 	"instvars" : [
 		 ],
-	"name" : "RV32IUAUIPC",
+	"name" : "RV32INOP",
 	"pools" : [
 		 ],
-	"super" : "RV32IU",
+	"super" : "RV32IIADDI",
 	"type" : "normal" }
