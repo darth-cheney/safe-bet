@@ -5,4 +5,4 @@ setTo: anInteger
 	bitmask to set any bits beyond the size of
 	this part to 0 first."
 	self isWriteable ifTrue: [
-		partValue := anInteger bitAnd: bitmask ].
+		self fromInteger: anInteger ofBitSize: self size ].

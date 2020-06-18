@@ -6,7 +6,7 @@ applyToImmediate: anInteger startingAt: anIndex
 	| resultVal start |
 	resultVal := anInteger.
 	start := self immediateStartIndex.
-	1 to: size do: [ :myIndex |
+	1 to: self size do: [ :myIndex |
 		| adjustedTargetIndex |
 		adjustedTargetIndex := anIndex + (myIndex - 1).
 		resultVal := resultVal bitAt: adjustedTargetIndex put: (self bitAt: myIndex)].

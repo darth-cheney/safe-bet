@@ -17,7 +17,9 @@ initializeParts
 		immediateStartIndex: 12.
 	self addPart: imm1.
 	
-	"imm2 represents 1:4 (0-indexed) bits of the immediate"
+	"imm2 represents 1:4 (0-indexed) bits of the immediate
+	The RISC-V Spec indicates that the first bit is always set to 0.
+	See my class's override of #immediateValue to see that in action"
 	imm2 := RVImmediatePart new
 		partName: 'imm2';
 		size: 4;

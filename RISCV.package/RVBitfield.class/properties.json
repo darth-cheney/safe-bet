@@ -4,13 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "EG 5/20/2020 12:29",
+	"commentStamp" : "",
 	"instvars" : [
-		"partName",
-		"start",
-		"writeable" ],
-	"name" : "RVInstructionPart",
+		"bits" ],
+	"name" : "RVBitfield",
 	"pools" : [
 		 ],
-	"super" : "RVBitfield",
+	"super" : "Object",
 	"type" : "normal" }

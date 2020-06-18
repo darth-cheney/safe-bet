@@ -10,8 +10,8 @@ testExecuteOn
 	instruction := RV32IIJALR new.
 	instruction rd setTo: 2. "Destination will be x2"
 	instruction rs1 setTo: 3. "Source register to add immediate to will be x3."
-	instruction immediateValue: 2r100101101101. "12-bit immediate"
-	expectedAddress := 2r100101101101 + 5. "100101110010"
+	instruction immediateValue: 2r000101101101. "12-bit immediate, which will be sign-extended to 32-bits"
+	expectedAddress := 2r000101101101 + 5. "100101110010"
 	expectedStoredValue := expectedAddress + (instruction xlen / 8).
 	
 	instruction executeOn: cpu.

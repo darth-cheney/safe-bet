@@ -7,6 +7,6 @@ setFrom: anInteger startingAt: anIndex
 		| adjustedIndex |
 		self isWriteable ifTrue: [
 			adjustedIndex := anIndex + (myIndex - 1).
-			partValue := partValue 
-									bitAt: myIndex 
-									put: (anInteger bitAt: adjustedIndex)] ]
+			self 
+				bitAt: myIndex 
+				put: (anInteger bitAt: adjustedIndex)] ]

@@ -1,3 +1,3 @@
 as yet unclassified
 size
-	^ size
+	^ bits size

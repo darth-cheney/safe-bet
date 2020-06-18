@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asInteger" : "EG 6/18/2020 16:50",
+		"asSignedInteger" : "EG 6/18/2020 16:48",
+		"asUnsignedInteger" : "EG 6/18/2020 16:21",
+		"bitAt:" : "EG 6/18/2020 16:06",
+		"bitAt:put:" : "EG 6/18/2020 16:06",
+		"concatWith:" : "EG 6/18/2020 18:02",
+		"fromInteger:ofBitSize:" : "EG 6/18/2020 16:47",
+		"initialize" : "EG 6/18/2020 16:18",
+		"onesComplement" : "EG 6/18/2020 16:34",
+		"printAsBinary" : "EG 6/18/2020 16:24",
+		"readStream" : "EG 6/18/2020 18:00",
+		"signExtendTo:" : "EG 6/18/2020 16:05",
+		"size" : "EG 6/18/2020 15:43",
+		"size:" : "EG 6/18/2020 16:20",
+		"twosComplement" : "EG 6/18/2020 16:36",
+		"writeStream" : "EG 6/18/2020 18:00" } }

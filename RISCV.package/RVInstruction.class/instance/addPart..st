@@ -19,6 +19,3 @@ addPart: anRVInstructionPart
 	and determine the startIndex based on its endIndex"
 	anRVInstructionPart startingAt: (partsCollection last endIndex + 1).
 	partsCollection add: anRVInstructionPart.
-		
-	
-	partsCollection add: anRVInstructionPart.

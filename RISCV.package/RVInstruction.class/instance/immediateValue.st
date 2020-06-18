@@ -6,11 +6,13 @@ immediateValue
 	instructions without immediates will respond with 0.
 	We select and sort all immediate parts and then compute
 	the actual bits, responding with the resulting Integer value."
-	| immediates sorted result |
-	result := 0.
-	immediates := partsCollection select: [ :imm | imm isImmediatePart ].
-	sorted := immediates sort: [ :first :second |
-		first immediateStartIndex <= second immediateStartIndex ].
-	sorted do: [ :immediate |
-		result := immediate applyToImmediate: result ].
-	^ result
+	| newBitField writeStream immSize |
+	immSize := self immediates
+		inject: 0
+		into: [ :acc :imm | acc + imm size ].
+	newBitField := RVBitfield new size: immSize.
+	writeStream := newBitField writeStream.
+	self sortedImmediates do: [ :imm | writeStream nextPutAll: imm readStream contents ].
+	self isSignedImmediate
+		ifTrue: [ ^ newBitField asSignedInteger ].
+	^ newBitField asUnsignedInteger
