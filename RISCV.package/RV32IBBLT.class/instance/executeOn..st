@@ -5,7 +5,7 @@ executeOn: aCPU
 	source1 := aCPU registerNumbered: self rs1 asInteger.
 	source2 := aCPU registerNumbered: self rs2 asInteger.
 	
-	((source1 value) < (source2 value))
+	((source1 asSignedInteger) < (source2 asSignedInteger))
 		ifTrue: [
 			aCPU incrementPCBy: self immediateValue ]
 		ifFalse: [
