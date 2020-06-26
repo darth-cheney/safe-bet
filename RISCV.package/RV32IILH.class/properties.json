@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "EG 5/31/2020 18:20",
 	"instvars" : [
-		 ],
+		"byte" ],
 	"name" : "RV32IILH",
 	"pools" : [
 		 ],

@@ -12,6 +12,6 @@ testFromInteger
 	instruction := RVInstruction fromInteger: incoming.
 	self assert: RV32IILB equals: instruction class.
 	self assert: 2r111110101110 equals: instruction imm1 asInteger.
-	self assert: 2r11111111111111111111111110101110 equals: instruction immediateValue.
+	self assert: 2r11111111111111111111111110101110 equals: instruction unsignedImmediateValue.
 	self assert: 2r00001 equals: instruction rs1 asInteger.
 	self assert: 2r00100 equals: instruction rd asInteger.

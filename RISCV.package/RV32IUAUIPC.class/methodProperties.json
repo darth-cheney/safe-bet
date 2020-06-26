@@ -4,4 +4,6 @@
 	"instance" : {
 		"executeOn:" : "EG 6/16/2020 09:36",
 		"initialize" : "EG 6/15/2020 14:26",
-		"instructionName" : "EG 6/15/2020 14:27" } }
+		"instructionName" : "EG 6/15/2020 14:27",
+		"signedImmediateValue" : "EG 6/23/2020 14:30",
+		"unsignedImmediateValue" : "EG 6/23/2020 14:39" } }

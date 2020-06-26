@@ -3,4 +3,6 @@
 		"fromIntegerWithoutOpcode:" : "EG 6/15/2020 13:44" },
 	"instance" : {
 		"initialize" : "EG 6/15/2020 13:42",
-		"instructionName" : "EG 6/15/2020 13:48" } }
+		"instructionName" : "EG 6/15/2020 13:48",
+		"signedImmediateValue" : "EG 6/23/2020 15:07",
+		"unsignedImmediateValue" : "EG 6/23/2020 15:06" } }

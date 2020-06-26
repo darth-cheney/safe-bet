@@ -17,6 +17,6 @@ testFromInteger
 	self assert: 2r0000111001 equals: instruction imm3 asInteger.
 	self assert: 2r1 equals: instruction imm2 asInteger.
 	self assert: 2r10011011 equals: instruction imm1 asInteger.
-	self assert: 2r010011011100001110010 equals: instruction immediateValue.
+	self assert: 2r010011011100001110010 equals: instruction unsignedImmediateValue.
 	self assert: 2r10101 equals: instruction rd asInteger.
 	

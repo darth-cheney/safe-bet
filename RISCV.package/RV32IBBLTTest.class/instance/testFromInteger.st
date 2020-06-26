@@ -19,4 +19,4 @@ testFromInteger
 	self assert: 2r100 equals: instruction funct3 asInteger.
 	self assert: 2r1011 equals: instruction imm2 asInteger.
 	self assert: 2r0 equals: instruction imm1 asInteger.
-	self assert: 2r1000101010110 equals: instruction immediateValue.
+	self assert: 2r1000101010110 equals: instruction unsignedImmediateValue.

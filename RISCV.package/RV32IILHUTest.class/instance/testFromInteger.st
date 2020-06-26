@@ -12,6 +12,6 @@ testFromInteger
 	instruction := RVInstruction fromInteger: incoming.
 	self assert: RV32IILHU equals: instruction class.
 	self assert: 2r110100011011 equals: instruction imm1 asInteger.
-	self assert: 2r11111111111111111111110100011011 equals: instruction immediateValue. "Sign extended to 32-bits"
+	self assert: 2r11111111111111111111110100011011 equals: instruction unsignedImmediateValue. "Sign extended to 32-bits"
 	self assert: 2r00001 equals: instruction rs1 asInteger.
 	self assert: 2r10000 equals: instruction rd asInteger.

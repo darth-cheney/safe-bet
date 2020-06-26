@@ -1,4 +1,4 @@
-I represent an instruction that loads a byte (8-bits) from memory and stores the value into the register referenced by rd. Note that I sign-extent the retrieved value to 32-bits before storing in the destination register.
+I represent an instruction that loads a byte (8-bits) from memory and stores the value into the register referenced by rd. Note that I sign-extend the retrieved value to 32-bits before storing in the destination register.
 
 The source address is determined by adding the 12-bit sign-extended immediate value to the value referenced by the register rs1.
 
