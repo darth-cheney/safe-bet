@@ -6,4 +6,6 @@ executeOn: aCPU
 	sourceRegister := aCPU registerNumbered: self rs1 asInteger.
 	result := (sourceRegister value) bitOr: self immediateValue.
 	destinationRegister value: result.
+	aCPU incrementPCBy: 4.
+	
 	
