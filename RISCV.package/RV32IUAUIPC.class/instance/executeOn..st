@@ -5,6 +5,5 @@ executeOn: aCPU
 	destination := aCPU registerNumbered: self rd asInteger.
 	offset := self immediateValue + aCPU pcValue.
 	destination value: offset.
-	aCPU incrementPCBy: (self xlen / 8)
-	
+	aCPU incrementPCBy: 4
 	
