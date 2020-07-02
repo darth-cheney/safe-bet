@@ -7,7 +7,7 @@ unsignedImmediateValue
 		into: [ :acc :imm | acc + imm size ].
 	writeStream := newBitField writeStream.
 	self sortedImmediates do: [ :imm | writeStream nextPutAll: imm readStream contents ].
-	signBit := self sortedImmediates last bitAt: (self sortedImmediates last size).
+	signBit := newBitField bitAt: immSize.
 	(immSize + 1) to: 32 do: [ :bitIndex |
 		newBitField bitAt: bitIndex put: signBit ].
 	^ newBitField asUnsignedInteger
