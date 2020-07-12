@@ -9,7 +9,7 @@ bytesAt: startIndex numBytes: numBytes
 	(bounds > (size - 1))
 		ifTrue: [ Error signal: 'Cannot access outside of Memory bounds!'].
 	resultStream := WriteStream on: ByteArray new.
-	startIndex to: bounds do: [ :currentIndex |
+	startIndex to: (bounds - 1) do: [ :currentIndex |
 		resultStream nextPut: (self byteAt: currentIndex)].
 	^ resultStream contents
 	

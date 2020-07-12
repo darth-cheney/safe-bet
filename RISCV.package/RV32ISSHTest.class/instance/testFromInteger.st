@@ -15,4 +15,3 @@ testFromInteger
 	self assert: 2r11110 equals: instruction imm1 asInteger.
 	self assert: 2r00011 equals: instruction rs2 asInteger.
 	self assert: 2r11100 equals: instruction rs1 asInteger.
-	self assert: 2r110100111110 equals: instruction immediateValue.

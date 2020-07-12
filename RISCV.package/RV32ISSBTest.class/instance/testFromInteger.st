@@ -13,6 +13,5 @@ testFromInteger
 	self assert: RV32ISSB equals: instruction class.
 	self assert: 2r1110111 equals: instruction imm2 asInteger.
 	self assert: 2r00000 equals: instruction imm1 asInteger.
-	self assert: 2r111011100000 equals: instruction immediateValue.
 	self assert: 2r01000 equals: instruction rs2 asInteger.
 	self assert: 2r10111 equals: instruction rs1 asInteger.
