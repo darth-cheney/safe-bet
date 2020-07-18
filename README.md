@@ -15,6 +15,9 @@ This initial version only contains the 32I portion of the unprivileged instructi
 ## Future Directions ##
 Because this infrastructure allows us to simulate and also produce byte-accurate RISC-V binaries, this package could be the foundation of many things, from a Smalltalk-based RV assembler to a simulation environment for designing custom RISC-V systems.
   
+## Name ##
+This project is called "Safe Bet" because it's a "Small(talk) RISC"
+  
 ## Examples ##
 See the instructions tests methods beginning with `testExecuteOn` to see instructions executing on a CPU instance.
   
