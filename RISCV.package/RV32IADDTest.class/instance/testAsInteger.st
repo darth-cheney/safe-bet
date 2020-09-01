@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 testAsInteger
 	"Ensure that we return an integer as expected"
 	| inst |
