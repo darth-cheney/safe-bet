@@ -2,4 +2,4 @@
 atIndex: anInteger
 	| key |
 	key := self keyAtIndex: anInteger.
-	^ self at: key
+	^ key -> (self at: key)
