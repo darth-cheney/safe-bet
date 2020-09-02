@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 testFromInteger
 	"Ensure that RVInstruction class >> #fromInteger:, when
 	given a correct ADD instruction as an integer, will correctly
