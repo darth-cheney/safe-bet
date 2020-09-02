@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "EG 6/16/2020 14:35",
-	"super" : "Object",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 6/16/2020 14:35",
 	"instvars" : [
 		"registerName",
-		"bits"
-	],
+		"bits" ],
 	"name" : "RVRegister",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

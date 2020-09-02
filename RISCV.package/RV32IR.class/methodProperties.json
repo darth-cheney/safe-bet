@@ -1,18 +1,15 @@
 {
-	"instance" : {
-		"instructionName" : "EG 5/20/2020 16:04",
-		"funct7" : "EG 5/20/2020 16:03",
-		"opcode" : "EG 5/20/2020 16:01",
-		"initializeParts" : "EG 5/22/2020 16:09",
-		"instructionType" : "EG 5/20/2020 16:03",
-		"initialize" : "EG 5/20/2020 18:23",
-		"funct3" : "EG 5/20/2020 16:02",
-		"rd" : "EG 5/20/2020 16:02",
-		"rs2" : "EG 5/20/2020 16:03",
-		"rs1" : "EG 5/20/2020 16:03",
-		"hasImmediate" : "EG 5/22/2020 17:13"
-	},
 	"class" : {
-		"fromIntegerWithoutOpcode:" : "EG 5/22/2020 12:22"
-	}
-}
+		"fromIntegerWithoutOpcode:" : "EG 5/22/2020 12:22" },
+	"instance" : {
+		"funct3" : "EG 5/20/2020 16:02",
+		"funct7" : "EG 5/20/2020 16:03",
+		"hasImmediate" : "EG 5/22/2020 17:13",
+		"initialize" : "EG 5/20/2020 18:23",
+		"initializeParts" : "EG 5/22/2020 16:09",
+		"instructionName" : "EG 5/20/2020 16:04",
+		"instructionType" : "EG 5/20/2020 16:03",
+		"opcode" : "EG 5/20/2020 16:01",
+		"rd" : "EG 5/20/2020 16:02",
+		"rs1" : "EG 5/20/2020 16:03",
+		"rs2" : "EG 5/20/2020 16:03" } }

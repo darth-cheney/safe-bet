@@ -1,10 +1,7 @@
 {
-	"instance" : {
-		"initialize" : "EG 5/25/2020 17:23",
-		"executeOn:" : "EG 7/1/2020 14:15",
-		"instructionName" : "EG 5/25/2020 17:24"
-	},
 	"class" : {
-		"funct3" : "EG 5/25/2020 17:23"
-	}
-}
+		"funct3" : "EG 5/25/2020 17:23" },
+	"instance" : {
+		"executeOn:" : "EG 7/1/2020 14:15",
+		"initialize" : "EG 5/25/2020 17:23",
+		"instructionName" : "EG 5/25/2020 17:24" } }

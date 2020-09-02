@@ -1,15 +1,12 @@
 {
-	"instance" : {
-		"initialize" : "EG 5/25/2020 14:41",
-		"immediateValue:" : "EG 5/22/2020 17:41",
-		"instructionName" : "EG 5/22/2020 17:09",
-		"imm2" : "EG 5/22/2020 17:07",
-		"shamt" : "EG 5/22/2020 17:06",
-		"executeOn:" : "EG 7/2/2020 17:39"
-	},
 	"class" : {
-		"toggleBit" : "EG 5/25/2020 14:22",
 		"funct3" : "EG 5/22/2020 17:09",
-		"isSpecialized" : "EG 5/27/2020 09:52"
-	}
-}
+		"isSpecialized" : "EG 5/27/2020 09:52",
+		"toggleBit" : "EG 5/25/2020 14:22" },
+	"instance" : {
+		"executeOn:" : "EG 7/2/2020 17:39",
+		"imm2" : "EG 5/22/2020 17:07",
+		"immediateValue:" : "EG 5/22/2020 17:41",
+		"initialize" : "EG 5/25/2020 14:41",
+		"instructionName" : "EG 5/22/2020 17:09",
+		"shamt" : "EG 5/22/2020 17:06" } }

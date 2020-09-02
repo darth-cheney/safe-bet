@@ -1,29 +1,26 @@
 {
-	"instance" : {
-		"setFromInteger:" : "EG 5/22/2020 10:06",
-		"immediateSignBit" : "EG 6/18/2020 14:17",
-		"initialize" : "EG 5/20/2020 15:48",
-		"immediateBitLength" : "EG 6/18/2020 14:14",
-		"hasImmediate" : "EG 5/20/2020 18:18",
-		"asByteArray" : "EG 6/15/2020 17:27",
-		"hasTwoByteMultImmediate" : "EG 6/23/2020 10:56",
-		"immediateValue" : "EG 6/23/2020 11:00",
-		"isSignedImmediate" : "EG 6/18/2020 17:41",
-		"unsignedImmediateValue" : "EG 6/23/2020 11:00",
-		"immediates" : "EG 5/22/2020 17:16",
-		"executeOn:" : "EG 6/15/2020 18:05",
-		"asInteger" : "EG 5/20/2020 19:36",
-		"asBlElement" : " 9/2/2020 15:58:34",
-		"initializeParts" : "EG 5/20/2020 19:29",
-		"signedImmediateValue" : "EG 6/23/2020 11:01",
-		"asGtView:" : " 9/2/2020 15:58:34",
-		"lenx" : "EG 5/20/2020 19:31",
-		"addPart:" : "EG 6/18/2020 18:33",
-		"immediateValue:" : "EG 5/22/2020 17:23",
-		"sortedImmediates" : "EG 5/22/2020 17:18"
-	},
 	"class" : {
 		"fromInteger:" : "EG 5/22/2020 08:41",
-		"initialize" : "EricGade 9/2/2020 12:39"
-	}
-}
+		"initialize" : "EricGade 9/2/2020 12:39" },
+	"instance" : {
+		"addPart:" : "EG 6/18/2020 18:33",
+		"asBlElement" : "9/2/2020 15:58:34",
+		"asByteArray" : "EG 6/15/2020 17:27",
+		"asGtView:" : "9/2/2020 15:58:34",
+		"asInteger" : "EG 5/20/2020 19:36",
+		"executeOn:" : "EG 6/15/2020 18:05",
+		"hasImmediate" : "EG 5/20/2020 18:18",
+		"hasTwoByteMultImmediate" : "EG 6/23/2020 10:56",
+		"immediateBitLength" : "EG 6/18/2020 14:14",
+		"immediateSignBit" : "EG 6/18/2020 14:17",
+		"immediateValue" : "EG 6/23/2020 11:00",
+		"immediateValue:" : "EG 5/22/2020 17:23",
+		"immediates" : "EG 5/22/2020 17:16",
+		"initialize" : "EG 5/20/2020 15:48",
+		"initializeParts" : "EG 5/20/2020 19:29",
+		"isSignedImmediate" : "EG 6/18/2020 17:41",
+		"lenx" : "EG 5/20/2020 19:31",
+		"setFromInteger:" : "EG 5/22/2020 10:06",
+		"signedImmediateValue" : "EG 6/23/2020 11:01",
+		"sortedImmediates" : "EG 5/22/2020 17:18",
+		"unsignedImmediateValue" : "EG 6/23/2020 11:00" } }

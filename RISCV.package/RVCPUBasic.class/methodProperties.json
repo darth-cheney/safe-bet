@@ -1,26 +1,24 @@
 {
-	"instance" : {
-		"memory" : "EG 6/15/2020 17:02",
-		"xlen" : "EG 6/26/2020 14:58",
-		"initializeRegisters" : "EG 6/15/2020 16:53",
-		"memory:" : "EG 6/15/2020 16:13",
-		"doNextInstruction" : "EG 6/16/2020 08:07",
-		"runWithDelay:" : "EricGade 9/2/2020 12:54",
-		"initialize" : "EG 6/15/2020 16:14",
-		"runSyncWithDelay:" : "EricGade 9/2/2020 12:55",
-		"bootstrap:" : "EG 6/15/2020 17:03",
-		"incrementPCBy:" : "EG 6/15/2020 18:10",
-		"pcValue" : "EG 6/15/2020 18:09",
-		"nextInstruction" : "EG 6/16/2020 08:06",
-		"registerNumbered:" : "EG 6/15/2020 17:45",
-		"run" : "EricGade 9/2/2020 12:54",
-		"runSync" : "EricGade 9/2/2020 12:45",
-		"tickSpeed" : "EG 6/15/2020 17:59",
-		"registerNamed:" : "EG 6/15/2020 16:54",
-		"registers" : "EricGade 9/2/2020 14:04"
-	},
 	"class" : {
 		"example1024" : "EG 6/15/2020 16:51",
-		"xlen" : "EG 6/15/2020 16:14"
-	}
-}
+		"xlen" : "EG 6/15/2020 16:14" },
+	"instance" : {
+		"asMorph" : "eg 9/2/2020 17:09",
+		"bootstrap:" : "EG 6/15/2020 17:03",
+		"doNextInstruction" : "EG 6/16/2020 08:07",
+		"incrementPCBy:" : "EG 6/15/2020 18:10",
+		"initialize" : "EG 6/15/2020 16:14",
+		"initializeRegisters" : "EG 6/15/2020 16:53",
+		"memory" : "EG 6/15/2020 17:02",
+		"memory:" : "EG 6/15/2020 16:13",
+		"nextInstruction" : "EG 6/16/2020 08:06",
+		"pcValue" : "EG 6/15/2020 18:09",
+		"registerNamed:" : "EG 6/15/2020 16:54",
+		"registerNumbered:" : "EG 6/15/2020 17:45",
+		"registers" : "EricGade 9/2/2020 14:04",
+		"run" : "EricGade 9/2/2020 12:54",
+		"runSync" : "EricGade 9/2/2020 12:45",
+		"runSyncWithDelay:" : "EricGade 9/2/2020 12:55",
+		"runWithDelay:" : "EricGade 9/2/2020 12:54",
+		"tickSpeed" : "EG 6/15/2020 17:59",
+		"xlen" : "EG 6/26/2020 14:58" } }

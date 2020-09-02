@@ -1,21 +1,18 @@
 {
-	"instance" : {
-		"signedImmediateValue" : "EG 6/23/2020 15:14",
-		"instructionType" : "EG 5/22/2020 16:17",
-		"initializeParts" : "EG 5/25/2020 17:11",
-		"initialize" : "EG 5/22/2020 16:17",
-		"funct3" : "EG 5/22/2020 17:10",
-		"rd" : "EG 5/22/2020 16:34",
-		"unsignedImmediateValue" : "EG 7/2/2020 16:22",
-		"imm1" : "EG 5/22/2020 16:35",
-		"rs1" : "EG 5/22/2020 16:34",
-		"isSignedImmediate" : "EG 6/23/2020 15:11"
-	},
 	"class" : {
+		"fromIntegerWithoutOpcode:" : "EG 6/16/2020 11:22",
 		"funct3" : "EG 5/25/2020 14:38",
 		"isSpecialJump" : "EG 6/13/2020 14:34",
-		"fromIntegerWithoutOpcode:" : "EG 6/16/2020 11:22",
 		"isSpecialized" : "EG 5/27/2020 09:52",
-		"toggleBit" : "EG 5/25/2020 14:43"
-	}
-}
+		"toggleBit" : "EG 5/25/2020 14:43" },
+	"instance" : {
+		"funct3" : "EG 5/22/2020 17:10",
+		"imm1" : "EG 5/22/2020 16:35",
+		"initialize" : "EG 5/22/2020 16:17",
+		"initializeParts" : "EG 5/25/2020 17:11",
+		"instructionType" : "EG 5/22/2020 16:17",
+		"isSignedImmediate" : "EG 6/23/2020 15:11",
+		"rd" : "EG 5/22/2020 16:34",
+		"rs1" : "EG 5/22/2020 16:34",
+		"signedImmediateValue" : "EG 6/23/2020 15:14",
+		"unsignedImmediateValue" : "EG 7/2/2020 16:22" } }

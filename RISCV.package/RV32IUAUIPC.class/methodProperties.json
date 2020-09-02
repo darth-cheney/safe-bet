@@ -1,12 +1,9 @@
 {
+	"class" : {
+		"fromIntegerWithoutOpcode:" : "EG 6/15/2020 14:42" },
 	"instance" : {
-		"unsignedImmediateValue" : "EG 6/23/2020 14:39",
-		"signedImmediateValue" : "EG 6/23/2020 14:30",
+		"executeOn:" : "EG 7/2/2020 17:47",
 		"initialize" : "EG 6/15/2020 14:26",
 		"instructionName" : "EG 6/15/2020 14:27",
-		"executeOn:" : "EG 7/2/2020 17:47"
-	},
-	"class" : {
-		"fromIntegerWithoutOpcode:" : "EG 6/15/2020 14:42"
-	}
-}
+		"signedImmediateValue" : "EG 6/23/2020 14:30",
+		"unsignedImmediateValue" : "EG 6/23/2020 14:39" } }

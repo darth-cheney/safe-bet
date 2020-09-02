@@ -1,4 +1,6 @@
 {
+	"class" : {
+		"fromIntegerWithoutOpcode:" : "EG 6/15/2020 15:22" },
 	"instance" : {
 		"fm" : "EG 6/15/2020 15:09",
 		"funct3" : "EG 6/15/2020 15:09",
@@ -6,11 +8,6 @@
 		"initializeParts" : "EG 6/15/2020 15:11",
 		"instructionName" : "EG 6/15/2020 15:30",
 		"predecessor" : "EG 6/15/2020 15:09",
-		"rs1" : "EG 6/15/2020 15:08",
 		"rd" : "EG 6/15/2020 15:09",
-		"successor" : "EG 6/15/2020 15:09"
-	},
-	"class" : {
-		"fromIntegerWithoutOpcode:" : "EG 6/15/2020 15:22"
-	}
-}
+		"rs1" : "EG 6/15/2020 15:08",
+		"successor" : "EG 6/15/2020 15:09" } }
