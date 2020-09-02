@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"imm3" : "EG 6/15/2020 13:39",
+		"hasTwoByteMultImmediate" : "EG 6/23/2020 15:03",
+		"initialize" : "EG 6/15/2020 13:26",
+		"imm1" : "EG 6/15/2020 13:38",
+		"imm4" : "EG 6/15/2020 13:39",
+		"imm2" : "EG 6/15/2020 13:38",
+		"initializeParts" : "EG 6/15/2020 14:04",
+		"rd" : "EG 6/15/2020 13:38"
+	},
+	"class" : { }
+}

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"initialize" : "EG 5/25/2020 14:41",
+		"immediateValue:" : "EG 5/25/2020 14:30",
+		"instructionName" : "EG 5/25/2020 14:27",
+		"imm2" : "EG 5/25/2020 14:29",
+		"shamt" : "EG 5/25/2020 14:29",
+		"executeOn:" : "EG 7/2/2020 17:50"
+	},
+	"class" : {
+		"funct3" : "EG 5/25/2020 14:38",
+		"isSpecialized" : "EG 5/27/2020 09:52"
+	}
+}

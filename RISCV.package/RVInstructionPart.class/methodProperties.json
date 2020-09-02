@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"endIndex" : "EG 5/20/2020 17:21",
+		"asGtView:" : " 9/2/2020 15:58:34",
+		"isWriteable" : "EG 5/22/2020 09:24",
+		"asBlElement" : " 9/2/2020 15:58:34",
+		"partName" : "EG 5/20/2020 12:24",
+		"partName:" : "EG 5/20/2020 12:23",
+		"setTo:" : "EG 6/18/2020 16:54",
+		"applyTo:startingAt:" : "EG 5/20/2020 14:54",
+		"startingAt:" : "EG 5/20/2020 12:31",
+		"initialize" : "EG 6/18/2020 17:02",
+		"isImmediatePart" : "EG 5/20/2020 17:26",
+		"applyTo:" : "EG 5/20/2020 12:44",
+		"startIndex" : "EG 5/20/2020 12:31",
+		"isWriteable:" : "EG 5/22/2020 09:22",
+		"setFrom:startingAt:" : "EG 6/18/2020 17:00"
+	},
+	"class" : { }
+}

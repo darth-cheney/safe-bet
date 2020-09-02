@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initialize" : "EG 5/27/2020 09:43",
+		"isSignedImmediate" : "EG 7/2/2020 16:08",
+		"executeOn:" : "EG 7/2/2020 16:04",
+		"instructionName" : "EG 5/27/2020 09:44"
+	},
+	"class" : {
+		"funct3" : "EG 5/27/2020 09:43"
+	}
+}
