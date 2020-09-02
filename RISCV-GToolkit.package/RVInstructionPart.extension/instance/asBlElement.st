@@ -1,4 +1,4 @@
-gtoolkit
+*RISCV-GToolkit
 asBlElement
 	"Respond with a representation of this Instruction Part
 	as a Bloc Element"
@@ -27,13 +27,13 @@ asBlElement
 				constraintsDo: [ :c |
 					c horizontal fitContent.
 					c vertical fitContent ].
-			1 to: self size do: [ :idx |
+			bits reverse do: [ :bit |
 				bitElements addChild: (BlTextElement new
 					margin: (BlInsets left:5);
 					constraintsDo: [ :c | 
 						c horizontal fitContent.
 						c vertical fitContent ];
-					text:(((self bitAt: idx) asString) asRopedText glamorousMonospace fontSize: 48))].
+					text:((bit asString) asRopedText glamorousMonospace fontSize: 48))].
 			
 			"Add in order to container"
 			container addChild: bitElements.

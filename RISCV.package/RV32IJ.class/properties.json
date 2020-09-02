@@ -1,19 +1,18 @@
 {
-	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "RV32I",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"rd",
 		"imm1",
 		"imm2",
 		"imm3",
 		"imm4",
-		"opcode" ],
+		"opcode"
+	],
 	"name" : "RV32IJ",
-	"pools" : [
-		 ],
-	"super" : "RV32I",
-	"type" : "normal" }
+	"type" : "normal"
+}

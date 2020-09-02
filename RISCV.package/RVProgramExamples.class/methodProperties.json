@@ -1,6 +1,7 @@
 {
+	"instance" : { },
 	"class" : {
-		"addFiveToSixProgram" : "EricGade 9/2/2020 12:37",
-		"exampleAddFiveToSix" : "EricGade 9/2/2020 12:45" },
-	"instance" : {
-		 } }
+		"exampleAddFiveToSix" : "EricGade 9/2/2020 12:45",
+		"addFiveToSixProgram" : "EricGade 9/2/2020 12:37"
+	}
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EG 6/16/2020 07:23",
-	"instvars" : [
-		 ],
-	"name" : "RV32IUAUIPC",
-	"pools" : [
-		 ],
 	"super" : "RV32IU",
-	"type" : "normal" }
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RV32IUAUIPC",
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "RISCV-Examples",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricGade 9/2/2020 13:25",
-	"instvars" : [
-		 ],
-	"name" : "RVProgramExamples",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "RISCV-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RVProgramExamples",
+	"type" : "normal"
+}

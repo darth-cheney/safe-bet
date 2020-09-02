@@ -1,15 +1,18 @@
 {
-	"class" : {
-		"xlen" : "EG 6/16/2020 14:54" },
 	"instance" : {
-		"asSignedInteger" : "EG 6/16/2020 15:26",
-		"asUnsignedInteger" : "EG 6/16/2020 15:29",
-		"initialize" : "EG 6/16/2020 14:38",
-		"negateBit:" : "EG 6/16/2020 15:23",
 		"onesComplementOf:" : "EG 6/16/2020 15:04",
-		"registerName" : "EG 6/15/2020 16:02",
-		"registerName:" : "EG 6/15/2020 16:01",
-		"twosComplementOf:" : "EG 6/16/2020 15:15",
+		"asUnsignedInteger" : "EG 6/16/2020 15:29",
+		"negateBit:" : "EG 6/16/2020 15:23",
+		"width" : "EG 6/16/2020 14:30",
 		"value" : "EG 6/16/2020 15:41",
+		"initialize" : "EG 6/16/2020 14:38",
+		"registerName:" : "EG 6/15/2020 16:01",
 		"value:" : "EG 6/16/2020 15:30",
-		"width" : "EG 6/16/2020 14:30" } }
+		"asSignedInteger" : "EG 6/16/2020 15:26",
+		"twosComplementOf:" : "EG 6/16/2020 15:15",
+		"registerName" : "EG 6/15/2020 16:02"
+	},
+	"class" : {
+		"xlen" : "EG 6/16/2020 14:54"
+	}
+}

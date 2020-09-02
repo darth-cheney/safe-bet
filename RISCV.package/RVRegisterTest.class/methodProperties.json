@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"testAsSignedNegative" : "EG 6/16/2020 15:32",
-		"testOnesComplementOf" : "EG 6/16/2020 15:05",
-		"testTwosComplementOf" : "EG 6/16/2020 15:17" } }
+		"testTwosComplementOf" : "EG 6/16/2020 15:17",
+		"testOnesComplementOf" : "EG 6/16/2020 15:05"
+	},
+	"class" : { }
+}

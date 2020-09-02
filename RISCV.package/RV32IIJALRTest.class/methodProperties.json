@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testAsInteger" : "EG 6/13/2020 14:28",
+		"testFromInteger" : "EG 6/23/2020 11:02",
 		"testExecuteOn" : "EG 6/18/2020 15:12",
-		"testFromInteger" : "EG 6/23/2020 11:02" } }
+		"testAsInteger" : "EG 6/13/2020 14:28"
+	},
+	"class" : { }
+}

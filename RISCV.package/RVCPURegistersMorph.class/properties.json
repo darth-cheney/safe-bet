@@ -1,16 +1,15 @@
 {
-	"category" : "RISCV-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "RISCV-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"model",
 		"selectedIndex",
-		"listBox" ],
+		"listBox"
+	],
 	"name" : "RVCPURegistersMorph",
-	"pools" : [
-		 ],
-	"super" : "Morph",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"on:" : "eg 9/2/2020 17:08" },
 	"instance" : {
-		"initListMorph" : "eg 9/2/2020 17:38",
-		"initialize" : "eg 9/2/2020 17:02",
-		"listOfRegisterItems" : "eg 9/2/2020 16:59",
-		"model" : "eg 9/2/2020 16:18",
-		"model:" : "eg 9/2/2020 16:42",
-		"selectedIndex" : "eg 9/2/2020 16:22",
 		"selectedIndex:" : "eg 9/2/2020 16:23",
 		"step" : "eg 9/2/2020 17:38",
-		"stepTime" : "eg 9/2/2020 17:07" } }
+		"stepTime" : "eg 9/2/2020 17:07",
+		"initialize" : "eg 9/2/2020 17:02",
+		"initListMorph" : "eg 9/2/2020 17:38",
+		"listOfRegisterItems" : "eg 9/2/2020 16:59",
+		"model:" : "eg 9/2/2020 16:42",
+		"model" : "eg 9/2/2020 16:18",
+		"selectedIndex" : "eg 9/2/2020 16:22"
+	},
+	"class" : {
+		"on:" : "eg 9/2/2020 17:08"
+	}
+}

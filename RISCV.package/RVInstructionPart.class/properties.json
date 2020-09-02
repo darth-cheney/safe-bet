@@ -1,16 +1,15 @@
 {
-	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EG 5/20/2020 12:29",
+	"super" : "RVBitfield",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"partName",
 		"start",
-		"writeable" ],
+		"writeable"
+	],
 	"name" : "RVInstructionPart",
-	"pools" : [
-		 ],
-	"super" : "RVBitfield",
-	"type" : "normal" }
+	"type" : "normal"
+}

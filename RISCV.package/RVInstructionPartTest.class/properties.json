@@ -1,14 +1,13 @@
 {
-	"category" : "RISCV-Instructions-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"ex3" ],
-	"name" : "RVInstructionPartTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "RISCV-Instructions-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ex3"
+	],
+	"name" : "RVInstructionPartTest",
+	"type" : "normal"
+}

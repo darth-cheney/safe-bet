@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testByteAtPut" : "EG 6/15/2020 16:49" } }
+		"testByteAtPut" : "EG 6/15/2020 16:49"
+	},
+	"class" : { }
+}
