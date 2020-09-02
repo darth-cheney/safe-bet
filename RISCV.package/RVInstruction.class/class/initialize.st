@@ -13,4 +13,5 @@ initialize
 		2r0110111 -> RV32IULUI.
 		2r0001111 -> RV32IFENCE.
 		2r1110011 -> RV32IECALL.
+		2r0 -> RV32ISYSTEM.
 	} asDictionary

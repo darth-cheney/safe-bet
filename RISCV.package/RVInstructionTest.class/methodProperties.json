@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"testAddPart" : "EG 5/20/2020 17:25",
-		"testImmediateValue" : "EG 5/20/2020 18:15",
-		"testSetFromInteger" : "EG 5/22/2020 10:05",
-		"testSetImmediateValue" : "EG 5/22/2020 17:37" } }
