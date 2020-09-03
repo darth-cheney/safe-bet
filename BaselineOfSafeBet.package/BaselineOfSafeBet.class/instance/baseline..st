@@ -16,7 +16,7 @@ baseline: spec
 				do: [ 
 					spec
 						package: 'RISCV-Instructions-Core' with: [ spec includes: #('RISCV-Extensions-Pharo') ];
-						package: 'RISCV-Extensions-Pharo' with: [ spec requires: #('RISCV-Core-Instructions') ] ].
+						package: 'RISCV-Extensions-Pharo' with: [ spec requires: #('RISCV-Instructions-Core') ] ].
 			
 			"Squeak specific packages that are dependencies"
 			spec
