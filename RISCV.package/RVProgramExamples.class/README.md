@@ -1,1 +1,0 @@
-Various examples of 32 bit programs
