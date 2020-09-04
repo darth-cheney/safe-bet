@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EG 7/12/2020 14:35",
+	"super" : "RV32ISYSTEM",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RV32IEBREAK",
+	"type" : "normal"
+}

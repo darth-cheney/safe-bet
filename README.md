@@ -17,6 +17,16 @@ Because this infrastructure allows us to simulate and also produce byte-accurate
   
 ## Name ##
 This project is called "Safe Bet" because it's a "Small(talk) RISC"
+
+## Installation ##
+In Pharo (>=8), Squeak (>=5.3), and GToolkit, you can load this code by doing the following in a Playground/Workspace:
+```smalltalk
+Metacello new
+  baseline: 'SafeBet';
+  repository: 'github://darth-cheney/safe-bet';
+  load
+```
+See the `BaselineOfSafeBet` for more information about platform-specific packages
   
 ## Examples ##
 See the instructions tests methods beginning with `testExecuteOn` to see instructions executing on a CPU instance.
