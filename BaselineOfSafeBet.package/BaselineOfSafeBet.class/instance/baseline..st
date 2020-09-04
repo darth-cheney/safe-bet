@@ -14,8 +14,9 @@ baseline: spec
 			"Groups"
 			spec
 				group: #default with: #('RISCV-Instructions-Core' 'RISCV-Instructions-Tests' 'RISCV-Examples').
-			
-			"Pharo specific packages that are dependencies"	
+		].
+	
+	"Pharo specific packages that are dependencies"	
 			spec
 				for: #pharo
 				do: [ 
@@ -38,6 +39,3 @@ baseline: spec
 					spec
 						package: 'RISCV-Instructions-Core' with: [ spec includes: #('RISCV-GToolkit') ];
 						package: 'RISCV-GToolkit' with: [ spec requires: #('RISCV-Instructions-Core') ] ].
-					
-			
-		]
