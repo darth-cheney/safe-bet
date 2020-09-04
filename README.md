@@ -35,7 +35,9 @@ Here is an example of running a "program" on a CPU:
 ```smalltalk
 | cpu program |
 
-"Add instantiated RVInstruction objects to the collection below"
+"Add instantiated RVInstruction objects to the collection below.
+You would need to add your own initialized RVInstruction instances
+to this collection to comprise a 'program'"
 program := OrderedCollection new.
 
 "Create a basic CPU with 1024 bytes of memory"
@@ -50,3 +52,5 @@ PC, which will be 0 to start (and the address if the first program
 instruction). This will fork a new process named #RISCV_CPU"
 cpu run.
 ```
+### Built-in Examples ###
+We have provided a single class-side example program/example execution in `RVProgram Examples class >> #exampleAddFiveToSix`. Run this to execute the example program, which will load the constants 5 and 6 into registers, add them, put the result into register `x6`, and then halt the cpu (thus opening a debugger).
