@@ -1,0 +1,6 @@
+as yet unclassified
+funct7
+	"Respond with the Integer value for
+	funct7 for this instruction. It should always
+	be the same"
+	^ 0.

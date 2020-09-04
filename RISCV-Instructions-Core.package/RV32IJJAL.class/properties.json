@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EG 6/15/2020 13:47",
+	"super" : "RV32IJ",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RV32IJJAL",
+	"type" : "normal"
+}

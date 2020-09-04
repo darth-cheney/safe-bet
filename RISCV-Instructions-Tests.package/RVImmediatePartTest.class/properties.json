@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "RISCV-Instructions-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ex2"
+	],
+	"name" : "RVImmediatePartTest",
+	"type" : "normal"
+}

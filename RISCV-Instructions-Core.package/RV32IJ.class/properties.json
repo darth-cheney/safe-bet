@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "RV32I",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rd",
+		"imm1",
+		"imm2",
+		"imm3",
+		"imm4",
+		"opcode"
+	],
+	"name" : "RV32IJ",
+	"type" : "normal"
+}
