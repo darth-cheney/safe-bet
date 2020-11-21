@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RVCPUBasic",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RVCPUBasic64",
+	"type" : "normal"
+}

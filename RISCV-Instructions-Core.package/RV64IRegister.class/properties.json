@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RV32IRegister",
+	"category" : "RISCV-Instructions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RV64IRegister",
+	"type" : "normal"
+}
