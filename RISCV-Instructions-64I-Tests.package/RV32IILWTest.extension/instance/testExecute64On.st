@@ -1,4 +1,4 @@
-as yet unclassified
+*RISCV-Instructions-64I-Tests
 testExecute64On
 	"Test the execution of this instruction on a 64 bit CPU instance.
 	Here we are using a 64 bit CPU with 2048 bytes of addressable
