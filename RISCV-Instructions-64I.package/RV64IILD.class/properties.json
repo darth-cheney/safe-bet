@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricGade 11/21/2020 13:39",
+	"super" : "RV32IIL",
+	"category" : "RISCV-Instructions-64I",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RV64IILD",
+	"type" : "normal"
+}
