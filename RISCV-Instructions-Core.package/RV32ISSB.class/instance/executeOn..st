@@ -8,8 +8,8 @@ executeOn: aCPU
 	destAddr := (self immediateValue) + (source1 asUnsignedInteger).
 	
 	"We store a byte, ie only the lower 8 bits of rs2"
-	data := (source2 asUnsignedInteger) bitAnd: 2r11111111.
+	data := RVBitfield new fromInteger: (source2 asUnsignedInteger) ofBitSize: 8.
 	
-	aCPU memory bytesAt: destAddr put: (data asByteArray).
+	aCPU memory bytesAt: destAddr put: (data asByteArrayLittleEndian).
 	aCPU incrementPCBy: 4.
 	

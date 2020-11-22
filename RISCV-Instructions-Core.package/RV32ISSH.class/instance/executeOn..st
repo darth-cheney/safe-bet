@@ -7,11 +7,9 @@ executeOn: aCPU
 	
 	destAddr := (source1 asUnsignedInteger) + self immediateValue.
 	
-	"Data here is the half word, aka the lower 2 bytes (16 bits) of rs2"
-	data := (source2 asUnsignedInteger) bitAnd: 2r1111111111111111.
+	"Data here is the half word, aka the lower 2 bytes (16 bits) of rs2.
+	Bitfield >> #asByteArray will return a little-endian array of the bytes"
+	data := RVBitfield new fromInteger: (source2 asUnsignedInteger) ofBitSize: 16.
 	
-	"Note that we have to reverse the bytearray we are putting in, since
-	Squeak is big-endian but RISC-V expects little endian"
-	bytes := (data asByteArrayOfSize: 16) reversed.
-	aCPU memory bytesAt: destAddr put: bytes.
+	aCPU memory bytesAt: destAddr put: data asByteArrayLittleEndian.
 	aCPU incrementPCBy: 4

@@ -1,0 +1,3 @@
+converting
+asByteArrayLittleEndian
+	^ self asByteArray
