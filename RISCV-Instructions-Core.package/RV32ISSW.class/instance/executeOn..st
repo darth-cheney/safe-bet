@@ -1,7 +1,7 @@
 as yet unclassified
 executeOn: aCPU
 	"Execute this instruction on a given CPU object"
-	 | source1 source2 destAddr |
+	 | source1 source2 destAddr bytes |
 	source1 := aCPU registerNumbered: self rs1 asInteger.
 	source2 := aCPU registerNumbered: self rs2 asInteger.
 	
@@ -9,6 +9,7 @@ executeOn: aCPU
 	
 	"Note that we reverse the byte array, since Squeak is big-endian but
 	RISC-V wants little endian"
-	aCPU memory bytesAt: destAddr put: (source2 asUnsignedInteger asByteArray reversed).
+	bytes := (source2 asUnsignedInteger asByteArrayOfSize: 4) reversed.
+	aCPU memory bytesAt: destAddr put: bytes.
 	
 	aCPU incrementPCBy: 4
