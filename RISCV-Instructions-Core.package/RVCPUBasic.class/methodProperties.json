@@ -2,14 +2,14 @@
 	"class" : {
 		"example1024" : " 1/29/2021 18:00:55",
 		"example2048" : " 1/29/2021 18:00:55",
-		"exampleForBitmapDemo" : "EG 1/30/2021 17:15",
+		"exampleForBitmapDemo" : "EG 2/1/2021 16:36",
 		"xlen" : " 1/29/2021 18:00:55" },
 	"instance" : {
 		"addSubscriber:" : "EG 1/30/2021 15:45",
 		"bootstrap:" : " 1/29/2021 18:00:55",
 		"doNextInstruction" : "EG 1/30/2021 15:36",
 		"incrementPCBy:" : " 1/29/2021 18:00:55",
-		"initialize" : "EG 1/30/2021 15:11",
+		"initialize" : "EG 2/1/2021 17:02",
 		"initializeRegisters" : " 1/29/2021 18:00:55",
 		"memory" : " 1/29/2021 18:00:55",
 		"memory:" : " 1/29/2021 18:00:55",
@@ -21,7 +21,9 @@
 		"registers" : " 1/29/2021 18:00:55",
 		"run" : " 1/29/2021 18:00:55",
 		"runSync" : " 1/29/2021 18:00:55",
-		"runSyncWithDelay:" : " 1/29/2021 18:00:55",
+		"runSyncWithDelay:" : "EG 2/1/2021 17:06",
 		"runWithDelay:" : " 1/29/2021 18:00:55",
+		"running" : "EG 2/1/2021 17:02",
+		"running:" : "EG 2/1/2021 17:02",
 		"tickSpeed" : " 1/29/2021 18:00:55",
 		"xlen" : " 1/29/2021 18:00:55" } }

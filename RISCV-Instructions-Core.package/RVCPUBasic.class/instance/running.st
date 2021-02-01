@@ -1,3 +1,3 @@
 as yet unclassified
-stepTime
-	^ 16
+running
+	^ running
