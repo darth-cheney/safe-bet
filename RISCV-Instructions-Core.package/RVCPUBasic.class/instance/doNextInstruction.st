@@ -3,3 +3,4 @@ doNextInstruction
 	| nextInstruction |
 	nextInstruction := self nextInstruction.
 	nextInstruction executeOn: self.
+	self notifySubscribers

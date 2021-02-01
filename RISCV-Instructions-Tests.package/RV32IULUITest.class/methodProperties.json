@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsInteger" : " 1/29/2021 18:00:59",
+		"testExecuteOn" : "EG 2/1/2021 11:11",
+		"testFromInteger" : " 1/29/2021 18:00:59",
+		"testSetImmediateValue" : "EG 2/1/2021 09:18" } }

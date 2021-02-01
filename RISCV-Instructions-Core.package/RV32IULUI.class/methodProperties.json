@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fromIntegerWithoutOpcode:" : " 1/29/2021 18:00:55" },
+	"instance" : {
+		"executeOn:" : "EG 2/1/2021 11:10",
+		"initialize" : " 1/29/2021 18:00:55",
+		"instructionName" : " 1/29/2021 18:00:55",
+		"signedImmediateValue" : " 1/29/2021 18:00:55",
+		"unsignedImmediateValue" : " 1/29/2021 18:00:55" } }

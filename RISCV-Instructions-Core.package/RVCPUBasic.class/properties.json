@@ -1,14 +1,16 @@
 {
-	"commentStamp" : "EG 6/15/2020 16:13",
-	"super" : "Object",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 6/15/2020 16:13",
 	"instvars" : [
 		"registers",
-		"memory"
-	],
+		"memory",
+		"subscribers" ],
 	"name" : "RVCPUBasic",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testApplyToStartingAt" : " 1/29/2021 18:00:59",
+		"testBitAt" : " 1/29/2021 18:00:59",
+		"testBitAtPut" : " 1/29/2021 18:00:59",
+		"testSetFromStartingAt" : " 1/29/2021 18:00:59",
+		"testSetFromStartingAtNonWriteable" : " 1/29/2021 18:00:59",
+		"testSetTo" : " 1/29/2021 18:00:59",
+		"testSetToNonWriteable" : " 1/29/2021 18:00:59",
+		"testSize" : " 1/29/2021 18:00:59" } }

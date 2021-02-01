@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"openWindowOn:" : "EG 1/30/2021 16:11" },
+	"instance" : {
+		"clear" : "EG 1/30/2021 16:00",
+		"initialize" : "EG 1/30/2021 16:08",
+		"initializeRegisterMorphs" : "EG 1/30/2021 15:53",
+		"model" : "EG 1/30/2021 15:34",
+		"model:" : "EG 1/30/2021 15:45",
+		"resetPC" : "EG 1/30/2021 16:01",
+		"stepInstruction" : "EG 1/30/2021 16:02",
+		"updated" : "EG 1/30/2021 15:45" } }

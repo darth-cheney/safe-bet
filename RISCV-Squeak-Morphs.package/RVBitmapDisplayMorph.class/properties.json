@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Squeak-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memory" ],
+	"name" : "RVBitmapDisplayMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

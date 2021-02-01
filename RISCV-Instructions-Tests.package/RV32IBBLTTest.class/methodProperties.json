@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsInteger" : " 1/29/2021 18:00:59",
+		"testExecuteOn" : " 1/29/2021 18:00:59",
+		"testExecuteOnEQ" : " 1/29/2021 18:00:59",
+		"testExecuteOnGT" : " 1/29/2021 18:00:59",
+		"testExecuteOnNegative" : " 1/29/2021 18:00:59",
+		"testExecuteOnNegativeEQ" : " 1/29/2021 18:00:59",
+		"testExecuteOnNegativeGT" : " 1/29/2021 18:00:59",
+		"testFromInteger" : " 1/29/2021 18:00:59" } }

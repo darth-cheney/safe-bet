@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fromIntegerWithoutOpcode:" : " 1/29/2021 18:00:55",
+		"funct3" : " 1/29/2021 18:00:55",
+		"isSpecialJump" : " 1/29/2021 18:00:55",
+		"isSpecialized" : " 1/29/2021 18:00:55",
+		"toggleBit" : " 1/29/2021 18:00:55" },
+	"instance" : {
+		"funct3" : " 1/29/2021 18:00:55",
+		"imm1" : " 1/29/2021 18:00:55",
+		"initialize" : " 1/29/2021 18:00:55",
+		"initializeParts" : " 1/29/2021 18:00:55",
+		"instructionType" : " 1/29/2021 18:00:55",
+		"isSignedImmediate" : " 1/29/2021 18:00:55",
+		"rd" : " 1/29/2021 18:00:55",
+		"rs1" : " 1/29/2021 18:00:55",
+		"signedImmediateValue" : " 1/29/2021 18:00:55",
+		"unsignedImmediateValue" : " 1/29/2021 18:00:55" } }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Object",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"bits"
-	],
+		"bits" ],
 	"name" : "RVBitfield",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

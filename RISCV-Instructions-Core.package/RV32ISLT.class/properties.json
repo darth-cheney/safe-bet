@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "EG 7/9/2020 16:31",
-	"super" : "RV32IR",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 7/9/2020 16:31",
+	"instvars" : [
+		 ],
 	"name" : "RV32ISLT",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "RV32IR",
+	"type" : "normal" }

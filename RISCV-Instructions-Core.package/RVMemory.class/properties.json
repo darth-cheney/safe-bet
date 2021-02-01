@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "EG 6/15/2020 16:30",
-	"super" : "Object",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 1/30/2021 21:39",
 	"instvars" : [
 		"mapping",
-		"size"
-	],
+		"size" ],
 	"name" : "RVMemory",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

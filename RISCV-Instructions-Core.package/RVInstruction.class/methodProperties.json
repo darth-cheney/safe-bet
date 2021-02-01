@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"fromInteger:" : " 1/29/2021 18:00:55",
+		"initialize" : " 1/29/2021 18:00:55" },
+	"instance" : {
+		"addPart:" : " 1/29/2021 18:00:55",
+		"asByteArray" : " 1/29/2021 18:00:55",
+		"asInteger" : " 1/29/2021 18:00:55",
+		"executeOn:" : " 1/29/2021 18:00:55",
+		"hasImmediate" : " 1/29/2021 18:00:55",
+		"hasTwoByteMultImmediate" : " 1/29/2021 18:00:55",
+		"immediateBitLength" : " 1/29/2021 18:00:55",
+		"immediateSignBit" : " 1/29/2021 18:00:55",
+		"immediateValue" : " 1/29/2021 18:00:55",
+		"immediateValue:" : "EG 2/1/2021 09:14",
+		"immediates" : " 1/29/2021 18:00:55",
+		"initialize" : " 1/29/2021 18:00:55",
+		"initializeParts" : " 1/29/2021 18:00:55",
+		"isSignedImmediate" : " 1/29/2021 18:00:55",
+		"lenx" : " 1/29/2021 18:00:55",
+		"setFromInteger:" : " 1/29/2021 18:00:55",
+		"signedImmediateValue" : " 1/29/2021 18:00:55",
+		"sortedImmediates" : " 1/29/2021 18:00:55",
+		"unsignedImmediateValue" : " 1/29/2021 18:00:55" } }

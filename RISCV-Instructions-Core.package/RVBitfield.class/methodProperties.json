@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asByteArray" : " 1/29/2021 18:00:55",
+		"asByteArrayBigEndian" : " 1/29/2021 18:00:55",
+		"asByteArrayLittleEndian" : " 1/29/2021 18:00:55",
+		"asInteger" : " 1/29/2021 18:00:55",
+		"asSignedInteger" : " 1/29/2021 18:00:55",
+		"asUnsignedInteger" : " 1/29/2021 18:00:55",
+		"bitAt:" : " 1/29/2021 18:00:55",
+		"bitAt:put:" : " 1/29/2021 18:00:55",
+		"byteSize" : "EG 1/29/2021 18:02",
+		"concatWith:" : " 1/29/2021 18:00:55",
+		"fromInteger:ofBitSize:" : " 1/29/2021 18:00:55",
+		"initialize" : " 1/29/2021 18:00:55",
+		"onesComplement" : " 1/29/2021 18:00:55",
+		"printAsBinary" : " 1/29/2021 18:00:55",
+		"readStream" : " 1/29/2021 18:00:55",
+		"signExtendTo:" : " 1/29/2021 18:00:55",
+		"size" : " 1/29/2021 18:00:55",
+		"size:" : " 1/29/2021 18:00:55",
+		"twosComplement" : " 1/29/2021 18:00:55",
+		"writeStream" : " 1/29/2021 18:00:55" } }

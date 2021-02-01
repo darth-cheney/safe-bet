@@ -1,17 +1,18 @@
 {
-	"commentStamp" : "EG 6/15/2020 15:33",
-	"super" : "RV32I",
 	"category" : "RISCV-Instructions-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EG 6/15/2020 15:33",
 	"instvars" : [
 		"opcode",
 		"rd",
 		"funct3",
 		"rs1",
-		"funct12"
-	],
+		"funct12" ],
 	"name" : "RV32ISYSTEM",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "RV32I",
+	"type" : "normal" }

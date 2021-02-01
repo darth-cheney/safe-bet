@@ -1,0 +1,19 @@
+{
+	"category" : "RISCV-Squeak-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"registerMorphs",
+		"scrollPane",
+		"clearButton",
+		"resetButton",
+		"nextButton" ],
+	"name" : "RVCPUMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
