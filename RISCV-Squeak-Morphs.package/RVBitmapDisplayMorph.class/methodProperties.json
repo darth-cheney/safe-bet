@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "EG 2/1/2021 16:46",
+		"initialize" : "EG 2/2/2021 17:17",
 		"memory" : "EG 1/30/2021 21:38",
 		"memory:" : "EG 1/30/2021 21:51",
+		"segmentByteSize" : "EG 2/2/2021 17:16",
+		"segmentStartAddress" : "EG 2/2/2021 17:17",
 		"step" : "EG 1/30/2021 21:51",
-		"stepTime" : "EG 2/1/2021 17:19",
-		"updateBits" : "EG 2/1/2021 16:46" } }
+		"stepTime" : "EG 2/2/2021 18:28",
+		"updateBits" : "EG 2/2/2021 17:17" } }

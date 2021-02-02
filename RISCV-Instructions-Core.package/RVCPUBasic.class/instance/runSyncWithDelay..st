@@ -4,7 +4,13 @@ runSyncWithDelay: delayInMS
 	PC with the given delay in milliseconds between
 	executions"
 	running := true.
-	[ (self pcValue <= (self memory size - 1)) and: [ running ]]
+	delayInMS > 0
+		ifTrue: [ 
+		 	[ (self pcValue <= (self memory size - 1)) and: [ running ]]
 			whileTrue: [
 				self doNextInstruction.
-				(Delay forMilliseconds: delayInMS) wait. ]
+				(Delay forMilliseconds: delayInMS) wait. ] ]
+		ifFalse: [
+			[ (self pcValue <= (self memory size - 1)) and: [ running ]]
+			whileTrue: [
+				self doNextInstruction ]]

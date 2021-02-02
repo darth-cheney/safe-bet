@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Squeak-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RVBitmapDisplayMorphAligned",
+	"pools" : [
+		 ],
+	"super" : "RVBitmapDisplayMorph",
+	"type" : "normal" }

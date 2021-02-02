@@ -5,7 +5,7 @@ updateBits
 	memory ifNil: [ 
 		self stopStepping.
 		^ self ].
-	bytes := memory bytesAt: 11249 numBytes: 11250.
+	bytes := memory bytesAt: self segmentStartAddress numBytes: self segmentByteSize.
 	self image bits fromByteStream: bytes readStream.
 	self changed.
 	
