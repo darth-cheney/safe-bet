@@ -2,4 +2,4 @@ I represent a system-defined instruction that turns over control to some debuggi
   
 This instruction is not specified in much detail in the RISC-V ISA.
   
-When I am executed in a Squeak simulated CPU, I will simply halt and open a debugger.
+When I am executed in a Squeak simulated CPU, I will simply halt any cpu execution and open a debugger.
