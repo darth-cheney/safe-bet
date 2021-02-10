@@ -2,12 +2,14 @@ OrderedDictionary {
 	'RISCV.package' : #SquotCypressCodeSerializer,
 	'RISCV-Instructions-Core.package' : #SquotCypressCodeSerializer,
 	'RISCV-Instructions-Tests.package' : #SquotCypressCodeSerializer,
-	'RISCV-Examples.package' : #SquotCypressCodeSerializer,
 	'RISCV-Morphic.package' : #SquotCypressCodeSerializer,
+	'RISCV-Squeak-Morphs.package' : #SquotCypressCodeSerializer,
+	'RISCV-Examples.package' : #SquotCypressCodeSerializer,
 	'RISCV-Instructions-64I.package' : #SquotCypressCodeSerializer,
 	'RISCV-Extensions-Pharo.package' : #SquotCypressCodeSerializer,
 	'BaselineOfSafeBet.package' : #SquotCypressCodeSerializer,
 	'RISCV-GToolkit.package' : #SquotCypressCodeSerializer,
 	'RISCV-Instructions-64I-Tests.package' : #SquotCypressCodeSerializer,
-	'RISCV-Squeak-Morphs.package' : #SquotCypressCodeSerializer
+	'RISCV-Object-Icons.package' : #SquotCypressCodeSerializer,
+	'RISCV-Presentation.package' : #SquotCypressCodeSerializer
 }

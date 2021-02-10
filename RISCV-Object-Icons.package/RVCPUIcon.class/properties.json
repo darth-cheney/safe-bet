@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Object-Icons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"afterDropBlock" ],
+	"name" : "RVCPUIcon",
+	"pools" : [
+		 ],
+	"super" : "ObjectIcon",
+	"type" : "normal" }

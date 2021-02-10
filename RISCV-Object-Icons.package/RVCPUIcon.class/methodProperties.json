@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "EG 2/10/2021 09:33",
+		"addCustomMenuItems:hand:" : "EG 2/10/2021 17:42",
+		"afterDropDo:" : "EG 2/9/2021 17:34",
+		"dropEnabled" : "EG 2/9/2021 17:11",
+		"initialize" : "EG 2/9/2021 17:15",
+		"wantsDroppedMorph:event:" : "EG 2/9/2021 17:30" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "RISCV-Presentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RVCPUDrawer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
